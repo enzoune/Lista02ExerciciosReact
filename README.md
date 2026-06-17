@@ -24,5 +24,5 @@ Este projeto compõe o segundo nível da formação profissional de Desenvolvime
 
 ## 👤 Autor
 * **Enzo Hideaki Une**
-* 💼 LinkedIn: Enzo Une
-* 🐙 GitHub: @enzoune
+* 💼 LinkedIn: [Enzo Une](https://www.linkedin.com/in/enzo-une/)
+* 🐙 GitHub: [@enzoune](https://github.com/enzoune)
